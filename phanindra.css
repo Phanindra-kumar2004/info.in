@@ -1,0 +1,85 @@
+body {
+ margin: 0;
+ background-color: #DCD6F7;  
+}
+.img{
+margin: 0;
+ 
+}
+.image{
+ width: 200px;
+ height: 200px;
+ position: absolute;
+  left: 50px;
+  top: 275px;
+}
+ table{
+ margin-top: 0;
+ position: relative;
+ left: 300px;
+ padding: 25px;
+}
+h1{
+ font-family: 'Brush Script MT', cursive;
+ font-size: 50px;
+ margin-bottom: 0;
+}
+h3{
+ font-family: 'Brush Script MT', cursive;
+ font-size: 45px;
+ margin-bottom: 0;
+}
+p {
+  font-family: 'Brush Script MT', cursive;
+  font-size: 35px;
+  margin-top: 0;
+}
+hr{
+ border-color: grey;
+ border-style: dotted none none;
+ width: 10%;
+ border-width: 5px;
+ 
+}
+th{
+ padding: 5px;
+ background-visibility: 3px;
+}
+th a:hover{
+ background-color: #A6B1E1;
+ border-radius: 10px
+}
+.table {
+ margin-top: 0;
+ background-color: #424874;
+ width: 100%;
+}
+th a {
+ font-size: 20px;
+ color: #F4EEFF;
+ padding: 5px 20px;
+ text-decoration: none;
+}
+.intro {
+ margin-top: 100px;
+}
+.matrixlogo {
+ width: 35%;
+ border-radius: 50px;
+}
+.draw{
+ width: 50%;
+margin-top: 75px;
+}
+.draw2{
+ position: absolute;
+ left: 50%;
+}
+.draw1{
+ position: absolute;
+ right: 50%;
+}
+li{
+ display: inline;
+ padding: 50px;
+}
